@@ -32,5 +32,5 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'cn.naipu.App'
+    mainClass = 'cn.naipu.MiraiTris.App'
 }
